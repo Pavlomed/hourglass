@@ -5,7 +5,7 @@
 	padding: 0;
 }
 :root {
-	--bg: #e3e4e8;
+	--bg: #d64b0a;
 	--fg: #2e3138;
 	--primary: #255ff4;
 	font-size: calc(16px + (24 - 16) * (100vw - 320px) / (1280 - 320));
@@ -117,6 +117,6 @@ body {
 @media (prefers-color-scheme: dark) {
 	:root {
 		--bg: #17181c;
-		--fg: #c7cad1;
+		--fg: #df13b3;
 	}
 }
