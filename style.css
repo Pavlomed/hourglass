@@ -20,6 +20,7 @@ body {
 
 .color-h1 {
     color: var(--fg);
+    text-align: center;
 }
 .hourglass, .hourglass:before, .hourglass:after {
 	animation-duration: 4s;
